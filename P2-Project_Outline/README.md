@@ -1,5 +1,3 @@
-#Project Outline
-
 ##Overview
 
 My project will be a catalog of drag/burlesque/sideshow acts that will allow users to maintain a current portfolio of any numbers available for show bookings. Show producers will have the ability to search within several categories to find the performers that best fit their events. 
@@ -10,18 +8,17 @@ This project was motivated by the needs of local show producers, who often find 
 ## Features
 
 User login: users will be able to create a profile and log in, allowing them to add and update stage-ready acts as they are developed.
+
 Create and edit acts: users will be able to create new acts in the system by entering a mixture of required (title, theme, music, performance style) and optional fields(specialized skills, technical requirements, descriptive categories).
 View by performer: users will be able to see a list of a performer's available repertoire and click through for details on individual acts.
+
 View by Category: users will be able to see a list of all performances available within a given category and click through for details on individual acts.
+
 Search by Keyword: users will be able to search by keyword and see a list of all items meeting this criteria, which may be helpful for theme shows revolving around specific musical artists or pop culture references.
 
 ## Technologies
 
-Java
-Spring Boot
-MySQL
-Hibernate
-Thymeleaf Templates
+Java * Spring Boot * MySQL * Hibernate * Thymeleaf Templates
 
 ## To Learn
 
